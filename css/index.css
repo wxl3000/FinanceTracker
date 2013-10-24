@@ -1,0 +1,18 @@
+<style type="text/css">
+	body{margin:0px;padding:0px;height:1300px;text-align:center;background:#ffffff;}
+	a{text-decoration:none;}
+	a:hover{background-color:#FFFF85;}
+	h1{color:#666666;text-align:center;font-family:"Times New Roman";}
+#	.account-menu-bd a{float:left;}
+	.account-menu-bd{list-style-type:none;float:left;padding-left:10px;padding:0px;height:300px;width:100px;}
+	.account-date-option{float:left;margin-left:230px;margin-top:30px;padding:0px;height:30px;width:400px;margin-right:400px;}
+	.account-date-option select{width:100px;}
+	#account-calendar{float:left;height:20px;width:500px;margin-top:20px;margin-left:230px;}
+#	.account-calendar-title{margin-right:30px}
+	.account-calendar{width:273px;}
+	#account-display-tb{border-style:solid;border-width:2px;float:left;margin-left:230px;margin-top:30px;}
+	#account-display-tb td{border-style:solid;border-width:1px;height:25px;width:120px;text-align:center}
+	#account-display-tb .dtt-type{width:250px;}
+	#account-display-tb .dtt-add{width:100px;margin-left:10px;margin-right:10px}
+	#account-display-tb .dtt-bottom{text-align:left}
+</style>
